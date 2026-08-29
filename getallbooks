@@ -1,4 +1,7 @@
+cURL Command:
 curl http://localhost:5000/
+
+Output:
 {
     "1": {
         "author": "Chinua Achebe",
